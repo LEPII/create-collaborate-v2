@@ -1,0 +1,24 @@
+{
+  "name": "create-collaborate-v2",
+  "version": "1.0.0",
+  "description": "A specialized platform for people in the entertainment industry to share their work, network, and expand on their portfolio by finding their next gig!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEPII/create-collaborate-v2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LEPII/create-collaborate-v2/issues"
+  },
+  "homepage": "https://github.com/LEPII/create-collaborate-v2#readme",
+  "dependencies": {
+    "@prisma/client": "^2.30.0",
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.5.1"
+  }
+}
